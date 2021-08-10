@@ -12,9 +12,9 @@ import 'package:flutter_reactive_ble/src/converter/args_to_protubuf_converter.da
 import 'package:flutter_reactive_ble/src/converter/protobuf_converter.dart'
     as _i7;
 import 'package:flutter_reactive_ble/src/generated/bledata.pb.dart' as _i2;
-import 'package:flutter_reactive_ble_platform_interface/flutter_reactive_ble_platform_interface.dart'
-    as _i3;
 import 'package:mockito/mockito.dart' as _i1;
+import 'package:reactive_ble_platform_interface/reactive_ble_platform_interface.dart'
+    as _i3;
 
 // ignore_for_file: avoid_redundant_argument_values
 // ignore_for_file: avoid_setters_without_getters
